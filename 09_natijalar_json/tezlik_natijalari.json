@@ -1,0 +1,249 @@
+{
+ "C": {
+  "256_std": {
+   "vaqt_ms": 58.52,
+   "mks_blok": 7.142,
+   "MBs": 4.48,
+   "farq_foiz": 0.0
+  },
+  "256_std+toq": {
+   "vaqt_ms": 57.98,
+   "mks_blok": 7.076,
+   "MBs": 4.52,
+   "farq_foiz": -0.9
+  },
+  "256_std+S": {
+   "vaqt_ms": 59.6,
+   "mks_blok": 7.274,
+   "MBs": 4.4,
+   "farq_foiz": 1.9
+  },
+  "256_sbz": {
+   "vaqt_ms": 58.97,
+   "mks_blok": 7.197,
+   "MBs": 4.45,
+   "farq_foiz": 0.8
+  },
+  "256_sbz+toq": {
+   "vaqt_ms": 58.25,
+   "mks_blok": 7.108,
+   "MBs": 4.5,
+   "farq_foiz": -0.5
+  },
+  "256_sbz+toq+S": {
+   "vaqt_ms": 59.14,
+   "mks_blok": 7.217,
+   "MBs": 4.43,
+   "farq_foiz": 1.1
+  },
+  "16_std": {
+   "vaqt_ms": 117.83,
+   "mks_blok": 7.191,
+   "MBs": 2.22,
+   "farq_foiz": 0.0
+  },
+  "16_std+toq": {
+   "vaqt_ms": 119.14,
+   "mks_blok": 7.271,
+   "MBs": 2.2,
+   "farq_foiz": 1.1
+  },
+  "16_std+S": {
+   "vaqt_ms": 119.41,
+   "mks_blok": 7.288,
+   "MBs": 2.2,
+   "farq_foiz": 1.3
+  },
+  "16_sbz": {
+   "vaqt_ms": 117.26,
+   "mks_blok": 7.156,
+   "MBs": 2.24,
+   "farq_foiz": -0.5
+  },
+  "16_sbz+toq": {
+   "vaqt_ms": 118.46,
+   "mks_blok": 7.23,
+   "MBs": 2.21,
+   "farq_foiz": 0.5
+  },
+  "16_sbz+toq+S": {
+   "vaqt_ms": 120.03,
+   "mks_blok": 7.325,
+   "MBs": 2.18,
+   "farq_foiz": 1.9
+  }
+ },
+ "C_shovqin_foiz": 6.3,
+ "Python": {
+  "256_std": {
+   "vaqt_s": 0.257,
+   "farq_foiz": 0.0
+  },
+  "256_std+toq": {
+   "vaqt_s": 0.238,
+   "farq_foiz": -7.4
+  },
+  "256_std+S": {
+   "vaqt_s": 0.256,
+   "farq_foiz": -0.5
+  },
+  "256_sbz": {
+   "vaqt_s": 0.259,
+   "farq_foiz": 0.7
+  },
+  "256_sbz+toq": {
+   "vaqt_s": 0.241,
+   "farq_foiz": -6.3
+  },
+  "256_sbz+toq+S": {
+   "vaqt_s": 0.239,
+   "farq_foiz": -7.1
+  },
+  "16_std": {
+   "vaqt_s": 0.267,
+   "farq_foiz": 0.0
+  },
+  "16_std+toq": {
+   "vaqt_s": 0.251,
+   "farq_foiz": -5.8
+  },
+  "16_std+S": {
+   "vaqt_s": 0.275,
+   "farq_foiz": 3.1
+  },
+  "16_sbz": {
+   "vaqt_s": 0.272,
+   "farq_foiz": 2.0
+  },
+  "16_sbz+toq": {
+   "vaqt_s": 0.254,
+   "farq_foiz": -4.9
+  },
+  "16_sbz+toq+S": {
+   "vaqt_s": 0.254,
+   "farq_foiz": -4.8
+  }
+ },
+ "model": {
+  "256_std": {
+   "kopaytirish": 16812,
+   "teskari_jadval": 4224,
+   "qoshish": 26784,
+   "jadval": 192,
+   "taqqoslash": 640,
+   "bit_amal": 96,
+   "jami": 48748,
+   "farq_foiz": 0.0
+  },
+  "256_std+toq": {
+   "kopaytirish": 16812,
+   "teskari_jadval": 4224,
+   "qoshish": 26784,
+   "jadval": 192,
+   "taqqoslash": 0,
+   "bit_amal": 416,
+   "jami": 48428,
+   "farq_foiz": -0.66
+  },
+  "256_std+S": {
+   "kopaytirish": 16812,
+   "teskari_jadval": 4224,
+   "qoshish": 26784,
+   "jadval": 512,
+   "taqqoslash": 640,
+   "bit_amal": 96,
+   "jami": 49068,
+   "farq_foiz": 0.66
+  },
+  "256_sbz": {
+   "kopaytirish": 16812,
+   "teskari_jadval": 4224,
+   "qoshish": 26784,
+   "jadval": 192,
+   "taqqoslash": 640,
+   "bit_amal": 96,
+   "jami": 48748,
+   "farq_foiz": 0.0
+  },
+  "256_sbz+toq": {
+   "kopaytirish": 16812,
+   "teskari_jadval": 4224,
+   "qoshish": 26784,
+   "jadval": 192,
+   "taqqoslash": 0,
+   "bit_amal": 416,
+   "jami": 48428,
+   "farq_foiz": -0.66
+  },
+  "256_sbz+toq+S": {
+   "kopaytirish": 16812,
+   "teskari_jadval": 4224,
+   "qoshish": 26784,
+   "jadval": 512,
+   "taqqoslash": 0,
+   "bit_amal": 416,
+   "jami": 48748,
+   "farq_foiz": 0.0
+  },
+  "16_std": {
+   "kopaytirish": 16812,
+   "teskari_jadval": 4224,
+   "qoshish": 26784,
+   "jadval": 0,
+   "taqqoslash": 640,
+   "bit_amal": 96,
+   "jami": 48556,
+   "farq_foiz": 0.0
+  },
+  "16_std+toq": {
+   "kopaytirish": 16812,
+   "teskari_jadval": 4224,
+   "qoshish": 26784,
+   "jadval": 0,
+   "taqqoslash": 0,
+   "bit_amal": 416,
+   "jami": 48236,
+   "farq_foiz": -0.66
+  },
+  "16_std+S": {
+   "kopaytirish": 16812,
+   "teskari_jadval": 4224,
+   "qoshish": 26784,
+   "jadval": 320,
+   "taqqoslash": 640,
+   "bit_amal": 96,
+   "jami": 48876,
+   "farq_foiz": 0.66
+  },
+  "16_sbz": {
+   "kopaytirish": 16812,
+   "teskari_jadval": 4224,
+   "qoshish": 26784,
+   "jadval": 96,
+   "taqqoslash": 640,
+   "bit_amal": 192,
+   "jami": 48748,
+   "farq_foiz": 0.4
+  },
+  "16_sbz+toq": {
+   "kopaytirish": 16812,
+   "teskari_jadval": 4224,
+   "qoshish": 26784,
+   "jadval": 96,
+   "taqqoslash": 0,
+   "bit_amal": 512,
+   "jami": 48428,
+   "farq_foiz": -0.26
+  },
+  "16_sbz+toq+S": {
+   "kopaytirish": 16812,
+   "teskari_jadval": 4224,
+   "qoshish": 26784,
+   "jadval": 416,
+   "taqqoslash": 0,
+   "bit_amal": 512,
+   "jami": 48748,
+   "farq_foiz": 0.4
+  }
+ }
+}
