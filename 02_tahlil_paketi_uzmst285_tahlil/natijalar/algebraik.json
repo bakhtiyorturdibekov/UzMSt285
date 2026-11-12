@@ -1,0 +1,718 @@
+{
+ "tenglamalar_daraja": {
+  "S_kvadrat": [
+   39,
+   137
+  ],
+  "Z_kvadrat": [
+   0,
+   79
+  ],
+  "Z_kub": [
+   43,
+   299
+  ],
+  "Qosh_kvadrat": [
+   66,
+   137
+  ],
+  "Qosh_kub": [
+   537,
+   697
+  ],
+  "SBZ_kvadrat": [
+   0,
+   301
+  ],
+  "BZ256_kvadrat": [
+   0,
+   301
+  ],
+  "S_daraja": [
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7
+  ],
+  "Z_daraja": [
+   6,
+   6,
+   6,
+   6
+  ],
+  "SBZ_daraja": [
+   13,
+   13,
+   13,
+   13,
+   13,
+   13,
+   13,
+   13
+  ],
+  "BZ256_daraja": [
+   6,
+   6,
+   6,
+   6,
+   6,
+   6,
+   6,
+   6
+  ],
+  "Qosh_daraja_min": [
+   1,
+   1,
+   1,
+   1,
+   2,
+   3,
+   3,
+   5
+  ],
+  "Qosh_daraja_mediana": [
+   1.0,
+   8.0,
+   2.0,
+   8.0,
+   6.0,
+   5.0,
+   8.0,
+   8.0
+  ],
+  "Qosh_daraja_max": [
+   1,
+   8,
+   8,
+   8,
+   8,
+   8,
+   8,
+   8
+  ]
+ },
+ "kub": {
+  "256_std_r0": {
+   "2": {
+    "barcha_bitlar": 0.191,
+    "0-qatlam": 0.219
+   },
+   "4": {
+    "barcha_bitlar": 0.18,
+    "0-qatlam": 0.094
+   },
+   "6": {
+    "barcha_bitlar": 0.156,
+    "0-qatlam": 0.094
+   },
+   "8": {
+    "barcha_bitlar": 0.344,
+    "0-qatlam": 0.344
+   },
+   "10": {
+    "barcha_bitlar": 0.172,
+    "0-qatlam": 0.125
+   },
+   "12": {
+    "barcha_bitlar": 0.836,
+    "0-qatlam": 0.75
+   }
+  },
+  "256_std_r1": {
+   "2": {
+    "barcha_bitlar": 0.09,
+    "0-qatlam": 0.281
+   },
+   "4": {
+    "barcha_bitlar": 0.066,
+    "0-qatlam": 0.031
+   },
+   "6": {
+    "barcha_bitlar": 0.117,
+    "0-qatlam": 0.438
+   },
+   "8": {
+    "barcha_bitlar": 0.086,
+    "0-qatlam": 0.375
+   },
+   "10": {
+    "barcha_bitlar": 0.102,
+    "0-qatlam": 0.438
+   },
+   "12": {
+    "barcha_bitlar": 0.137,
+    "0-qatlam": 0.594
+   }
+  },
+  "256_std_r2": {
+   "2": {
+    "barcha_bitlar": 0.094,
+    "0-qatlam": 0.188
+   },
+   "4": {
+    "barcha_bitlar": 0.059,
+    "0-qatlam": 0.125
+   },
+   "6": {
+    "barcha_bitlar": 0.117,
+    "0-qatlam": 0.344
+   },
+   "8": {
+    "barcha_bitlar": 0.176,
+    "0-qatlam": 1.0
+   },
+   "10": {
+    "barcha_bitlar": 0.062,
+    "0-qatlam": 0.25
+   },
+   "12": {
+    "barcha_bitlar": 0.078,
+    "0-qatlam": 0.375
+   }
+  },
+  "256_std_r3": {
+   "2": {
+    "barcha_bitlar": 0.062,
+    "0-qatlam": 0.094
+   },
+   "4": {
+    "barcha_bitlar": 0.102,
+    "0-qatlam": 0.188
+   },
+   "6": {
+    "barcha_bitlar": 0.047,
+    "0-qatlam": 0.031
+   },
+   "8": {
+    "barcha_bitlar": 0.07,
+    "0-qatlam": 0.156
+   },
+   "10": {
+    "barcha_bitlar": 0.129,
+    "0-qatlam": 0.531
+   },
+   "12": {
+    "barcha_bitlar": 0.098,
+    "0-qatlam": 0.25
+   }
+  },
+  "256_sbz_r0": {
+   "2": {
+    "barcha_bitlar": 0.098,
+    "0-qatlam": 0.062
+   },
+   "4": {
+    "barcha_bitlar": 0.152,
+    "0-qatlam": 0.25
+   },
+   "6": {
+    "barcha_bitlar": 0.035,
+    "0-qatlam": 0.031
+   },
+   "8": {
+    "barcha_bitlar": 0.121,
+    "0-qatlam": 0.188
+   },
+   "10": {
+    "barcha_bitlar": 0.312,
+    "0-qatlam": 0.344
+   },
+   "12": {
+    "barcha_bitlar": 0.297,
+    "0-qatlam": 0.312
+   }
+  },
+  "256_sbz_r1": {
+   "2": {
+    "barcha_bitlar": 0.098,
+    "0-qatlam": 0.062
+   },
+   "4": {
+    "barcha_bitlar": 0.086,
+    "0-qatlam": 0.188
+   },
+   "6": {
+    "barcha_bitlar": 0.082,
+    "0-qatlam": 0.25
+   },
+   "8": {
+    "barcha_bitlar": 0.109,
+    "0-qatlam": 0.281
+   },
+   "10": {
+    "barcha_bitlar": 0.062,
+    "0-qatlam": 0.094
+   },
+   "12": {
+    "barcha_bitlar": 0.137,
+    "0-qatlam": 0.812
+   }
+  },
+  "256_sbz_r2": {
+   "2": {
+    "barcha_bitlar": 0.035,
+    "0-qatlam": 0.031
+   },
+   "4": {
+    "barcha_bitlar": 0.047,
+    "0-qatlam": 0.0
+   },
+   "6": {
+    "barcha_bitlar": 0.086,
+    "0-qatlam": 0.281
+   },
+   "8": {
+    "barcha_bitlar": 0.082,
+    "0-qatlam": 0.188
+   },
+   "10": {
+    "barcha_bitlar": 0.113,
+    "0-qatlam": 0.469
+   },
+   "12": {
+    "barcha_bitlar": 0.082,
+    "0-qatlam": 0.094
+   }
+  },
+  "256_sbz_r3": {
+   "2": {
+    "barcha_bitlar": 0.059,
+    "0-qatlam": 0.0
+   },
+   "4": {
+    "barcha_bitlar": 0.09,
+    "0-qatlam": 0.219
+   },
+   "6": {
+    "barcha_bitlar": 0.137,
+    "0-qatlam": 0.656
+   },
+   "8": {
+    "barcha_bitlar": 0.09,
+    "0-qatlam": 0.031
+   },
+   "10": {
+    "barcha_bitlar": 0.074,
+    "0-qatlam": 0.219
+   },
+   "12": {
+    "barcha_bitlar": 0.07,
+    "0-qatlam": 0.094
+   }
+  },
+  "16_std_r0": {
+   "2": {
+    "barcha_bitlar": 0.453,
+    "0-qatlam": 1.0
+   },
+   "4": {
+    "barcha_bitlar": 0.406,
+    "0-qatlam": 1.0
+   },
+   "6": {
+    "barcha_bitlar": 0.742,
+    "0-qatlam": 1.0
+   },
+   "8": {
+    "barcha_bitlar": 0.992,
+    "0-qatlam": 1.0
+   },
+   "10": {
+    "barcha_bitlar": 0.984,
+    "0-qatlam": 1.0
+   },
+   "12": {
+    "barcha_bitlar": 1.0,
+    "0-qatlam": 1.0
+   }
+  },
+  "16_std_r1": {
+   "2": {
+    "barcha_bitlar": 0.375,
+    "0-qatlam": 1.0
+   },
+   "4": {
+    "barcha_bitlar": 0.344,
+    "0-qatlam": 1.0
+   },
+   "6": {
+    "barcha_bitlar": 0.336,
+    "0-qatlam": 1.0
+   },
+   "8": {
+    "barcha_bitlar": 0.32,
+    "0-qatlam": 1.0
+   },
+   "10": {
+    "barcha_bitlar": 0.5,
+    "0-qatlam": 1.0
+   },
+   "12": {
+    "barcha_bitlar": 0.344,
+    "0-qatlam": 1.0
+   }
+  },
+  "16_std_r2": {
+   "2": {
+    "barcha_bitlar": 0.312,
+    "0-qatlam": 1.0
+   },
+   "4": {
+    "barcha_bitlar": 0.305,
+    "0-qatlam": 1.0
+   },
+   "6": {
+    "barcha_bitlar": 0.297,
+    "0-qatlam": 1.0
+   },
+   "8": {
+    "barcha_bitlar": 0.312,
+    "0-qatlam": 1.0
+   },
+   "10": {
+    "barcha_bitlar": 0.305,
+    "0-qatlam": 1.0
+   },
+   "12": {
+    "barcha_bitlar": 0.328,
+    "0-qatlam": 1.0
+   }
+  },
+  "16_std_r3": {
+   "2": {
+    "barcha_bitlar": 0.305,
+    "0-qatlam": 1.0
+   },
+   "4": {
+    "barcha_bitlar": 0.289,
+    "0-qatlam": 1.0
+   },
+   "6": {
+    "barcha_bitlar": 0.344,
+    "0-qatlam": 1.0
+   },
+   "8": {
+    "barcha_bitlar": 0.305,
+    "0-qatlam": 1.0
+   },
+   "10": {
+    "barcha_bitlar": 0.32,
+    "0-qatlam": 1.0
+   },
+   "12": {
+    "barcha_bitlar": 0.289,
+    "0-qatlam": 1.0
+   }
+  },
+  "16_sbz_r0": {
+   "2": {
+    "barcha_bitlar": 0.023,
+    "0-qatlam": 0.0
+   },
+   "4": {
+    "barcha_bitlar": 0.094,
+    "0-qatlam": 0.062
+   },
+   "6": {
+    "barcha_bitlar": 0.508,
+    "0-qatlam": 0.531
+   },
+   "8": {
+    "barcha_bitlar": 0.5,
+    "0-qatlam": 0.469
+   },
+   "10": {
+    "barcha_bitlar": 0.852,
+    "0-qatlam": 0.844
+   },
+   "12": {
+    "barcha_bitlar": 0.977,
+    "0-qatlam": 0.969
+   }
+  },
+  "16_sbz_r1": {
+   "2": {
+    "barcha_bitlar": 0.078,
+    "0-qatlam": 0.188
+   },
+   "4": {
+    "barcha_bitlar": 0.109,
+    "0-qatlam": 0.281
+   },
+   "6": {
+    "barcha_bitlar": 0.141,
+    "0-qatlam": 0.375
+   },
+   "8": {
+    "barcha_bitlar": 0.125,
+    "0-qatlam": 0.281
+   },
+   "10": {
+    "barcha_bitlar": 0.203,
+    "0-qatlam": 0.469
+   },
+   "12": {
+    "barcha_bitlar": 0.266,
+    "0-qatlam": 0.781
+   }
+  },
+  "16_sbz_r2": {
+   "2": {
+    "barcha_bitlar": 0.062,
+    "0-qatlam": 0.031
+   },
+   "4": {
+    "barcha_bitlar": 0.062,
+    "0-qatlam": 0.094
+   },
+   "6": {
+    "barcha_bitlar": 0.078,
+    "0-qatlam": 0.094
+   },
+   "8": {
+    "barcha_bitlar": 0.195,
+    "0-qatlam": 0.5
+   },
+   "10": {
+    "barcha_bitlar": 0.125,
+    "0-qatlam": 0.344
+   },
+   "12": {
+    "barcha_bitlar": 0.273,
+    "0-qatlam": 0.844
+   }
+  },
+  "16_sbz_r3": {
+   "2": {
+    "barcha_bitlar": 0.047,
+    "0-qatlam": 0.031
+   },
+   "4": {
+    "barcha_bitlar": 0.133,
+    "0-qatlam": 0.219
+   },
+   "6": {
+    "barcha_bitlar": 0.156,
+    "0-qatlam": 0.281
+   },
+   "8": {
+    "barcha_bitlar": 0.117,
+    "0-qatlam": 0.281
+   },
+   "10": {
+    "barcha_bitlar": 0.117,
+    "0-qatlam": 0.375
+   },
+   "12": {
+    "barcha_bitlar": 0.258,
+    "0-qatlam": 0.75
+   }
+  }
+ },
+ "linearizatsiya": {
+  "16_std": {
+   "toliq_32_bit": 1.0,
+   "bitlar_boyicha": 1.0
+  },
+  "16_sbz": {
+   "toliq_32_bit": 0.0,
+   "bitlar_boyicha": 0.5592
+  },
+  "256_std": {
+   "toliq_32_bit": 0.0,
+   "bitlar_boyicha": 0.4975
+  },
+  "256_sbz": {
+   "toliq_32_bit": 0.0,
+   "bitlar_boyicha": 0.499
+  }
+ },
+ "tenglamalar_soni": {
+  "256_std": {
+   "qosh": [
+    111082,
+    111082,
+    65658
+   ],
+   "aralash": [
+    20208,
+    20208,
+    11888
+   ],
+   "tuzilma": [
+    736,
+    736,
+    480
+   ],
+   "yutish": [
+    256,
+    3008,
+    2752
+   ],
+   "raund": [
+    243108,
+    243108,
+    143684
+   ],
+   "r1": [
+    354446,
+    357198,
+    212094
+   ],
+   "r2": [
+    597554,
+    600306,
+    355778
+   ],
+   "r3": [
+    840662,
+    843414,
+    499462
+   ]
+  },
+  "256_sbz": {
+   "qosh": [
+    111082,
+    111082,
+    65658
+   ],
+   "aralash": [
+    20208,
+    20208,
+    11888
+   ],
+   "tuzilma": [
+    736,
+    736,
+    480
+   ],
+   "yutish": [
+    512,
+    2496,
+    2496
+   ],
+   "raund": [
+    243108,
+    243108,
+    143684
+   ],
+   "r1": [
+    354702,
+    356686,
+    211838
+   ],
+   "r2": [
+    597810,
+    599794,
+    355522
+   ],
+   "r3": [
+    840918,
+    842902,
+    499206
+   ]
+  },
+  "128_std": {
+   "qosh": [
+    27430,
+    27430,
+    15950
+   ],
+   "aralash": [
+    4976,
+    4976,
+    2864
+   ],
+   "tuzilma": [
+    352,
+    352,
+    224
+   ],
+   "yutish": [
+    0,
+    128,
+    0
+   ],
+   "raund": [
+    60188,
+    60188,
+    34988
+   ],
+   "r1": [
+    87618,
+    87746,
+    50938
+   ],
+   "r2": [
+    147806,
+    147934,
+    85926
+   ],
+   "r3": [
+    207994,
+    208122,
+    120914
+   ]
+  },
+  "128_sbz": {
+   "qosh": [
+    27430,
+    27430,
+    15950
+   ],
+   "aralash": [
+    4976,
+    4976,
+    2864
+   ],
+   "tuzilma": [
+    352,
+    352,
+    224
+   ],
+   "yutish": [
+    256,
+    1248,
+    1248
+   ],
+   "raund": [
+    60188,
+    60188,
+    34988
+   ],
+   "r1": [
+    87874,
+    88866,
+    52186
+   ],
+   "r2": [
+    148062,
+    149054,
+    87174
+   ],
+   "r3": [
+    208250,
+    209242,
+    122162
+   ]
+  }
+ },
+ "linearizatsiya_murakkabligi_log2": {
+  "128_ozg_d1": 19.6,
+  "128_ozg_d4": 65.5,
+  "128_ozg_d6": 90.7,
+  "128_ozg_d7": 102.3,
+  "128_ozg_d8": 113.3,
+  "128_ozg_d13": 161.6,
+  "256_ozg_d1": 22.4,
+  "256_ozg_d4": 76.7,
+  "256_ozg_d6": 107.7,
+  "256_ozg_d7": 122.1,
+  "256_ozg_d8": 136.0,
+  "256_ozg_d13": 199.1
+ }
+}
